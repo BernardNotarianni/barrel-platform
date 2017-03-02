@@ -17,6 +17,7 @@
 -module(barrel_httpc_test_SUITE).
 -author("benoitc").
 
+%% une modif faite sur barrel-platform
 
 -define(DB_URL,<<"http://localhost:7080/dbs/testdb">>).
 
